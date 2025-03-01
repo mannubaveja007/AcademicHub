@@ -20,6 +20,11 @@
 - 💼 **Academic job listings**  
 - 📱 **Mobile app for iOS and Android**  
 
+## 🌐 Live Demo  
+Check out the live working version of Academic Hub:  
+[🔗 Academic Hub Live](https://v0-pears-research-paper.vercel.app/)  
+
+
 ## 🛠 Tech Stack  
 - **Next.js** - v13.4.5  
 - **React** - v18.2.0  
